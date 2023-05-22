@@ -5,5 +5,5 @@
  
  
 ```
-npm install node.js
+node app.js
 ```
